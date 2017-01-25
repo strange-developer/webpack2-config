@@ -7,4 +7,4 @@ Minimal webpack 2 config setup consisting of:
 * PostCSS
 * File Loader
 
-WebPack version 2.2.0
+Webpack version 2.2.0
